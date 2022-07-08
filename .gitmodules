@@ -1,0 +1,3 @@
+[submodule "firebase-tools.sub"]
+	path = firebase-tools.sub
+	url = https://github.com/firebase/firebase-tools.git
