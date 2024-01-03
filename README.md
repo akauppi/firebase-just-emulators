@@ -12,3 +12,12 @@ Aims:
 - [ ] Find ways to speed up particular emulators (takes *seconds* for things to warm up!!!)
 - [ ] Ultimately, package and deploy **just** the Emulators, as a `Dockerfile`
 
+## Requirements
+
+(none)
+
+## Steps
+
+```
+$ git submodule init
+```

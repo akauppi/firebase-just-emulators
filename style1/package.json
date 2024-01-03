@@ -1,0 +1,11 @@
+{
+  "name": "@local/style1",
+  "description": "Launching emulators using 'firebase-tools' Node API",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-tools": "^11.2.1"
+  }
+}
